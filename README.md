@@ -2,7 +2,7 @@
 
 
 
-\## Overview
+\## **Overview**
 
 
 
@@ -14,9 +14,9 @@ The assignment consists of two independent tasks:
 
 
 
-\* \*\*01\_Task\_1\_Anomaly\_Detection.ipynb\*\*
+01\_Task\_1\_Anomaly\_Detection.ipynb
 
-\* \*\*02\_Task\_2\_Fraud\_Classification.ipynb\*\*
+02\_Task\_2\_Fraud\_Classification.ipynb
 
 
 
@@ -88,9 +88,9 @@ Open and execute the notebooks in the following order:
 
 
 
-1\. `01\_Task\_1\_Anomaly\_Detection.ipynb`
+1\. 01\_Task\_1\_Anomaly\_Detection.ipynb
 
-2\. `02\_Task\_2\_Fraud\_Classification.ipynb`
+2\. 02\_Task\_2\_Fraud\_Classification.ipynb
 
 
 
@@ -98,11 +98,11 @@ Open and execute the notebooks in the following order:
 
 
 
-\# Notebook Overview
+\# **Notebook Overview**
 
 
 
-\## Task 1 – Anomaly Detection
+\## **Task 1 – Anomaly Detection**
 
 
 
@@ -114,7 +114,7 @@ The notebook is organized into the following sections:
 
 
 
-\### Data Understanding
+\### **Data Understanding**
 
 
 
@@ -136,7 +136,7 @@ This section helped build an overall understanding of the data before proceeding
 
 
 
-\### Anomaly Detection
+\### **Anomaly Detection**
 
 
 
@@ -150,7 +150,7 @@ Focused on identifying:
 
 
 
-\### Unsupervised Detection Discussion
+\### **Unsupervised Detection Discussion**
 
 
 
@@ -158,7 +158,7 @@ Discussed potential approaches for automatically detecting similar anomalous per
 
 
 
-\### Miscellaneous – Variable Level Deep Dive
+\### **Miscellaneous – Variable Level Deep Dive**
 
 
 
@@ -174,7 +174,7 @@ Several observations from this exploratory analysis were later validated through
 
 
 
-\## Task 2 – Fraud Classification
+\## **Task 2 – Fraud Classification**
 
 
 
@@ -204,7 +204,7 @@ The notebook includes:
 
 
 
-\### Appendix 1 – XGBoost Experimentation
+\### **Appendix 1 – XGBoost Experimentation**
 
 
 
@@ -216,7 +216,7 @@ Each approach includes the reasoning behind its implementation, evaluation, and 
 
 
 
-\### Appendix 2 – Baseline Models
+\### **Appendix 2 – Baseline Models**
 
 
 
@@ -232,7 +232,7 @@ These models established reference performance before transitioning to gradient 
 
 
 
-\# Submission Notes
+\# **Submission Notes**
 
 
 
@@ -274,7 +274,7 @@ Given additional time or data, potential enhancements would include:
 
 
 
-\*\*Author:\*\* Neeyati Satgounda
+Author: Neeyati Satgounda
 
 
 
