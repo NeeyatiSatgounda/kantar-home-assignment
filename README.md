@@ -6,7 +6,7 @@
 
 
 
-This repository contains my solution for the \*\*Kantar Data Science Fraud Detection Assignment\*\*.
+This repository contains my solution for the \*\*Kantar Fraud Detection Assignment\*\*.
 
 
 
